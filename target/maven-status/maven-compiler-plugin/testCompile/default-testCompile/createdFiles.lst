@@ -1,0 +1,8 @@
+jc\belajar\cucumber\definitions\LuasSegitigaDefinition.class
+jc\belajar\cucumber\definitions\PenjumlahanDefinition.class
+jc\belajar\cucumber\definitions\SignInDefinition.class
+jc\belajar\cucumber\runners\RunnerTest.class
+jc\belajar\cucumber\definitions\CheckoutDefinition.class
+jc\belajar\cucumber\definitions\RegisterDefinition.class
+jc\belajar\cucumber\definitions\PersegiPanjangDefinition.class
+jc\belajar\cucumber\hooks\Hook.class
